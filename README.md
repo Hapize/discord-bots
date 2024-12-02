@@ -17,7 +17,7 @@ This repository hosts the website for **DRC Bot**, developed by Hapi, as well as
 
 ## How to Use
 
-Visit the live website here: [GitHub Pages Link](https://<username>.github.io/<repo-name>/) (replace `<username>` and `<repo-name>` after publishing).  
+Visit the live website here: [GitHub Pages Link](https://<username>.github.io/<repo-name>/).  
 
 ### Pages
 
