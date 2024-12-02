@@ -59,8 +59,8 @@ At **DRC Bot**, your privacy is important to us. This policy explains how we col
 ## **Contact Information**
 
 If you have any questions about our **Terms of Service** or **Privacy Policy**, feel free to reach out to us through the following channels:
-- Join our Discord Server: [DRC Community Discord](https://discord.gg/XF7YmkFFfe)
-- Direct Contact: [Your Discord Username or Contact Details]
+- Join our Discord Server: [DRC Community Discord](https://discord.gg/bzM3HAEWXD)
+- Direct Contact: [Discord](https://discord.gg/XF7YmkFFfe).
 
 ---
 
